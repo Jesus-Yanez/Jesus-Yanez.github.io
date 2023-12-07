@@ -1,7 +1,7 @@
 # Jesus Yanez's Portfolio
 
 # Hello World
-This is my home page! My name is Jesus Yanez, I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. expect to graduate in 2027.
+This is my home page! My name is Jesus Yanez, I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science. I expect to graduate in 2027.
 
 ## Computer science Projects
 
