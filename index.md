@@ -1,6 +1,7 @@
 # Jesus Yanez's Portfolio
 
 I am a computer science student at CSUF and I expect to graduate in 2027.
+My github account is @Jesus-Yanez
 
 ## Favorite CPSC 120L Labs
 * Lab 1, part 1
