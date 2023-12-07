@@ -1,11 +1,11 @@
 # Jesus Yanez's Portfolio
 
-I am a computer science student and I expect to graduate in 2027
+I am a computer science student at CSUF and I expect to graduate in 2027.
 
 ## Favorite CPSC 120L Labs
 * Lab 1, part 1
   
-  This was our first lab for this class, I loved it due to its simplicity and the frinedship I gained out  of it. It also reminded me of my first time coding, which is a pleasant memory
+  This was our first lab for this class, I loved it due to its simplicity and the frinedship I gained out  of it. It also reminded me of my first time coding, which is a pleasant memory.
 
 * Lab 12, part 1
   
